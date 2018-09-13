@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-#include "MatrixOperations.h"
+#include "MatrixTranspose.h"
+#include "MatrixAddSub.h"
+#include "MatrixMultiply.h"
 
 
 int main(){
